@@ -87,7 +87,7 @@ test_ansible(){
                         ansible -i /etc/ansible/hosts test -m ping
                     else
                         echo "If you want to test the ansible then check the following URL for manual step 7."
-                        echo ""
+                        echo "https://smarttechfunda.com/automate-the-installation-of-ansible-on-centos-8/"
                         exit_script 0
                     fi
                 done
@@ -99,7 +99,7 @@ test_ansible(){
         elif [ "$status" = "N" ];then
             echo "The ansible is installed."
             echo "If you want to test the ansible then check the following URL for manual step 4."
-            echo ""
+            echo "https://smarttechfunda.com/automate-the-installation-of-ansible-on-centos-8/"
             exit_script 0
         else
             echo "Enter the correct option [Y/N]: "
