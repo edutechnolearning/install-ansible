@@ -15,5 +15,6 @@ python3, python3-pip
 <p>
 git clone https://github.com/edutechnolearning/install-ansible.git
 Log in as a non-root user, and the user should have sudo permission.<br />
+$ cd install-ansible/scripts <br />  
 $ sh install-ansible.sh
 </p>
