@@ -2,7 +2,7 @@
 
 <b> 
   Note:
-  <b/>
+  </b>
 <p>  
 This script works on CentOS 8 only.
 Read the instructions and follow the steps in the following link for manual installation.
