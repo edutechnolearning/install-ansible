@@ -16,7 +16,7 @@ python3
 
 <b> ====How to run the script?==== </b>
 <p>
-git clone https://github.com/edutechnolearning/install-ansible.git
+git clone -b release/1.0.0 https://github.com/edutechnolearning/install-ansible.git
 Log in as a non-root user, and the user should have sudo permission.<br />
 $ cd install-ansible/scripts <br />  
 $ chmod +x install-ansible <br /> 
