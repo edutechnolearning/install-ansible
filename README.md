@@ -8,10 +8,10 @@ This script works on CentOS 8 and Ubuntu 18.04.
 Read the instructions and follow the steps in the following link for manual installation.
   </p>
   
-<b> Requirement: CentOS 8 </b>
+<b> Requirement: CentOS 8 </b><br\>
 python3, python3-pip
 
-<b> Requirement: Ubuntu 18.04 </b>
+<b> Requirement: Ubuntu 18.04 </b><br\>
 python3
 
 <b> ====How to run the script?==== </b>
