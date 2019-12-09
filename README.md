@@ -4,12 +4,15 @@
   Note:
   </b>
 <p>  
-This script works on CentOS 8 only.
+This script works on CentOS 8 and Ubuntu 18.04.
 Read the instructions and follow the steps in the following link for manual installation.
   </p>
   
-<b> Requirement: </b>
+<b> Requirement: CentOS 8 </b>
 python3, python3-pip
+
+<b> Requirement: Ubuntu 18.04 </b>
+python3
 
 <b> ====How to run the script?==== </b>
 <p>
