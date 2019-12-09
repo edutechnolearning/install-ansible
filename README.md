@@ -6,7 +6,7 @@
 <p>  
 This script works on CentOS 8 and Ubuntu 18.04.
 Read the instructions and follow the steps in the following link for manual installation.<br />
-CentOS : https://smarttechfunda.com/automate-the-installation-of-ansible-on-centos-8/  
+  <b> CentOS </b> : https://smarttechfunda.com/automate-the-installation-of-ansible-on-centos-8/  
   </p>
   
 <b> Requirement: CentOS 8 </b></br>
