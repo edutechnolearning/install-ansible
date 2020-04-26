@@ -12,7 +12,7 @@ Read the instructions and follow the steps in the following link for manual inst
 <b> Requirement: CentOS 8 </b></br>
 python3, python3-pip
 
-<b> Requirement: Ubuntu 18.04 </b></br>
+<b> Requirement: Ubuntu 18.04, 20.04 </b></br>
 python3
 
 <b> ====How to run the script?==== </b>
